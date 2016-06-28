@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ADC-000\ADC\TopDesign.cysch">
+<ExpandedNodeIds>
+<v>ADC-000</v>
+<v>ADC-000\ADC</v>
+<v>ADC-000\ADC\TopDesign.cysch</v>
+<v>ADC-000\ADC\ADC.cydwr</v>
+<v>ADC-000\ADC\Header Files</v>
+<v>ADC-000\ADC\Header Files\device.h</v>
+<v>ADC-000\ADC\Source Files</v>
+<v>ADC-000\ADC\Source Files\main.c</v>
+<v>ADC-000\ADC\Generated_Source</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC\ADC.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC\ADC.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC\ADC_INT.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC\ADC_PM.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_AMux</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_AMux\ADC_AMux.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_AMux\ADC_AMux.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_Ext_CP_Clk</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_Ext_CP_Clk\ADC_Ext_CP_Clk.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_Ext_CP_Clk\ADC_Ext_CP_Clk.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_theACLK</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_theACLK\ADC_theACLK.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\ADC_theACLK\ADC_theACLK.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\analog_in</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\analog_in\analog_in.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\analog_in\analog_in.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\analog_in\analog_in_aliases.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\cm3gcc.ld</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\Cm3RealView.scat</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\Cm3Start.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\core_cm3.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\core_cm3.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\core_cm3_psoc5.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CyBootAsmGnu.s</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CyBootAsmRv.s</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CyDmac.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CyDmac.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CyFlash.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CyFlash.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CyLib.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CyLib.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\cypins.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\cyPm.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\cyPm.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CySpc.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\CySpc.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\cytypes.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cy_boot\cyutils.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\LCD</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\LCD\LCD.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\LCD\LCD.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\LCD\LCD_PM.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\LCD_LCDPort</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\LCD_LCDPort\LCD_LCDPort.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\LCD_LCDPort\LCD_LCDPort.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\LCD_LCDPort\LCD_LCDPort_aliases.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cydevice.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cyfitter.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>ADC-000\ADC\Generated_Source\PSoC5\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ADC-000</v>
+<v>ADC-000\ADC</v>
+<v>ADC-000\ADC\TopDesign</v>
+<v>ADC-000\ADC\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ADC-000</v>
+<v>ADC-000\ADC</v>
+<v>ADC-000\ADC\CortexM3</v>
+<v>ADC-000\ADC\CortexM3\ARM_GCC_441</v>
+<v>ADC-000\ADC\CortexM3\ARM_GCC_441\Debug</v>
+<v>ADC-000\ADC\CortexM3\ARM_GCC_441\Debug\ADC.elf</v>
+<v>ADC-000\ADC\CortexM3\ARM_GCC_441\Debug\ADC.hex</v>
+<v>ADC-000\ADC\CortexM3\ARM_GCC_441\Debug\ADC.map</v>
+<v>ADC-000\ADC\ADC.rpt</v>
+<v>ADC-000\ADC\ADC_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ADC-000</v>
+<v>ADC-000\ADC</v>
+<v>ADC-000\ADC\PSoC 5 Architecture TRM</v>
+<v>ADC-000\ADC\CY8C58LP Family Datasheet</v>
+<v>ADC-000\ADC\System Reference Guide v3_20</v>
+<v>ADC-000\ADC\ADC_DelSig_v2_30</v>
+<v>ADC-000\ADC\cy_pins_v1_70</v>
+<v>ADC-000\ADC\CharLCD_v1_70</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<config v="" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
