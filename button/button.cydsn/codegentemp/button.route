@@ -1,0 +1,7 @@
+net ClockBlock_BUS_CLK
+	term   ":clockblockcell.clk_bus_glb"
+	switch ":clockblockcell.clk_bus_glb==>:ioport6:pin1.clock"
+	term   ":ioport6:pin1.clock"
+	switch ":clockblockcell.clk_bus_glb==>:ioport15:pin5.clock"
+	term   ":ioport15:pin5.clock"
+end ClockBlock_BUS_CLK
